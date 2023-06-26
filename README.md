@@ -1,1 +1,3 @@
-# music_player
+# Marsbeat
+
+Online audio player
